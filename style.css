@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    grid-template: 1fr;
+    justify-content: center;
+    gap: 10px;
+}
+h1, h2{
+    text-align: center;
+}
